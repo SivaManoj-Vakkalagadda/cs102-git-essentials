@@ -1,0 +1,5 @@
+i have learned five git commands 
+they are pull push
+commit
+add
+status
